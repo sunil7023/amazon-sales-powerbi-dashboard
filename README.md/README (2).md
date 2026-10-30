@@ -104,6 +104,6 @@ The source file `Amazon_Combined_Data.xlsx` has one sheet (`Amazon_Data`) with t
 Available for freelance Power BI, Excel and reporting projects.
 
 - **Name:** Sunil Luhar
-- **LinkedIn:** [add your link]
-- **Upwork:** [add your link]
-- **Email:** [add your email]
+- **LinkedIn:** [www.linkedin.com/in/sunil-luhar-b7ab69383]
+- **Upwork:** [https://www.upwork.com/freelancers/~012da964e093fca48f)]
+- **Email:** [luharsunil965@gmail.com]
