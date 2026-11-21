@@ -69,8 +69,10 @@ The source file `Amazon_Combined_Data.xlsx` has one sheet (`Amazon_Data`) with t
 
 ## 📬 Contact
 
-Available for freelance Power BI, Excel and reporting projects.
+Available for freelance Power BI, Excel and reporting projects on Upwork and Fiverr.
 
-- **Name:** Sunil Luhar
-- **Upwork:** [View my Upwork profile](PASTE-YOUR-UPWORK-PROFILE-LINK-HERE)
-- **Fiverr:** [View my Fiverr profile](PASTE-YOUR-FIVERR-PROFILE-LINK-HERE)
+- Name: Sunil Luhar
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/sunil-luhar-b7ab69383)
+- Upwork: [My Upwork Profile](https://www.upwork.com/freelancers/~012da964e093fca48f))
+- Fiverr: [My Fiverr Profile](https://www.fiverr.com/s/Q2rQrN1))
+- Email:  [luharsunil965@gmail.com]
